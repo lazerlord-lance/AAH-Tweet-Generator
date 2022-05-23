@@ -16,7 +16,7 @@ public class aah {
             aah = aah + "H";
         }
 
-        System.out.println(aah.length() + " / " + aah);
+        System.out.println(aah);
 
     }
     
